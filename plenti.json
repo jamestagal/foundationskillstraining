@@ -1,0 +1,10 @@
+{
+	"build": "public",
+	"routes": {
+		"pages": ":filename"
+	},
+	"baseurl": "/fountationskillstraining/",
+	"local": {
+		"port": 3000
+	}
+}

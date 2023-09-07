@@ -1,0 +1,183 @@
+{
+	"meta": {
+	  "desc": "Foundation Skills Training is a consultancy and training provider in Australia",
+	  "keywords": "Foundation Skills, Language, Literacy, Numeracy, Communication, FSK, Digital skills"
+	},
+	  "components": [
+		  	{
+				"name": "hero",
+				"fields": {
+					"subtitle": "Prevention is better than a cure",
+					"title1": "Your Future Starts With",
+					"title2": "Foundation Skills",
+					"body": "We train students how to take responsibility and ownership of their learning",
+					"heroShape1": {
+						"src": "media/shape/shape-1.png",
+						"alt": "hero image"
+					},
+					"heroShape2": {
+						"src": "media/shape/shape-3.png",
+						"alt": "hero image"
+					},
+					"heroShape3": {
+						"src": "media/shape/shape-6.png",
+						"alt": "hero image"
+					},
+					"heroShape4": {
+						"src": "media/shape/shape-4.png",
+						"alt": "hero image"
+					},
+					"search": {
+						"button": "Search"
+					},
+                    "bgImage": {
+						"src": "media/hero/hero.jpeg",
+						"alt": "background hero image"
+					},
+					"link1": {
+						"title": "Get Started Now",
+						"url": "."
+					},
+					"link2": {
+						"title": "Get Started Now",
+						"url": "."
+					}
+				}
+			},
+			{
+				"name": "skills",
+				"fields": {
+					"title1": "We train the",
+					"title2": "Foundation Skills",
+					"card1": {
+						"title": "Language"
+					},
+					"card2": {
+						"title": "Literacy"
+					},
+					"card3": {
+						"title": "Numeracy"
+					},
+					"card4": {
+						"title": "Digital"
+					},
+					"card5": {
+						"title": "Learning"
+					},
+					"card6": {
+						"title": "Reading/writing"
+					},
+					"card7": {
+						"title": "Communication"
+					},
+					"card8": {
+						"title": "Employability"
+					}
+				}
+			},
+			{
+				"name": "feature",
+				"fields": {
+					"title1": "Why choose",
+					"title2": "Foundation Skills Training",
+					"subtitle": "It is a long established fact that a reader will be distracted by the readable.",
+					"card1": {
+						"title": "Build solid foundations",
+						"body": "It is a long established fact that a reader will be distracted by the readable content."
+					},
+					"card2": {
+						"title": "Expert Instructors",
+						"body": "They generate alignment and engagement. This leads to happier"
+					},
+					"card3": {
+						"title": "Try & tested methods",
+						"body": "They generate alignment and engagement. This leads to happier"
+					}
+				} 
+		  	},
+			  {
+				"name": "steps",
+				"fields": {
+					"title1": "The steps to succeed with",
+					"title2": "Foundation Skills Training",
+					"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+					"step1": {
+						"number": "01.",
+						"title": "Find Best Course With Filter",
+						"description": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration."
+					},
+					"step2": {
+						"number": "02.",
+						"title": "Enroll To Your Course",
+						"description": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration."
+					},
+					"step3": {
+						"number": "03.",
+						"title": "How much it costs to get started?",
+						"description": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration."
+					}
+				}
+			},
+			{
+				"name": "trainers",
+				"fields": {
+					"title1": "Meet Our",
+					"title2": "Trainers & Instructors",
+					"subtitle": "It is a long established fact that a reader will be distracted by the readable.",
+					"trainer1": {
+						"title": "Lead trainer",
+						"name": "Jodie Dehalen",
+						"src": "media/instructor/02.jpeg",
+						"alt": "Jodie Dehalen"
+				},
+					"trainer2": {
+						"title": "Lead trainer",
+						"name": "Benjamin Waller",
+						"src": "media/instructor/01.jpeg",
+						"alt": "Benjamin Waller"
+					},
+					"trainer3": {
+						"title": "Lead trainer",
+						"name": "Maria (Fran) Handoko",
+						"src": "media/instructor/04.jpeg",
+						"alt": "Maria (Fran) Handoko"
+					},
+					"trainer4": {
+						"title": "Marketer",
+						"name": "Jean K. Avendano",
+						"src": "media/instructor/03.jpeg",
+						"alt": "Jean K. Avendano"
+					}
+				}
+			},
+			{
+				"name": "cta",
+				"fields": {
+					"title": "Start today & get trained in delivering Foundation Skills",
+					"description": "Get access to our top trainers and resources to help you succeed.",
+					"link": {
+						"title": "Get Started Now",
+                        "url": "."
+                    },
+                    "image": {
+					  "url": "media/cta/cta.jpeg",
+					  "alt": "Women studying"
+				    },
+					"shape": {
+						"url": "media/shape/shape-arrow.svg",
+						"alt": "a yellow arrow pointing to the cta"
+					}
+                }
+			},
+          	{
+				"name": "recent_articles",
+				"fields": {
+					"title": "Recent Articles",
+					"link": {
+						"title": "See all posts",
+						"url": "."
+					}
+				}
+			}
+	  	]
+  	}
