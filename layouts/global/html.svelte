@@ -14,7 +14,7 @@
 </script>
 
 <html lang="en">
-<Head title={content.filename} {env} {...content.fields} />
+<Head title={content?.fields?.meta?.title} {env} {...content.fields} />
 <body id="top">
   <Header />
   <main class="main">

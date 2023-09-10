@@ -6,7 +6,7 @@
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width,initial-scale=1'>
 
-  <title>{ title }</title>
+  <title>{ title ? title + " | Foundation Skills Training" : "Foundation Skills Training" }</title>
   <base href="{ env.baseurl }">
   <script type="module" src="/spa/core/main.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
