@@ -83,16 +83,28 @@
 					"title2": "Foundation Skills Training",
 					"subtitle": "It is a long established fact that a reader will be distracted by the readable.",
 					"card1": {
-						"title": "Build solid foundations",
-						"body": "It is a long established fact that a reader will be distracted by the readable content."
+						"title": "Holistic Approach",
+						"body": "We take a holistic approach to education and workforce development. We recognize that foundation skills are not just about literacy and numeracy but also include digital and employability skills. We address these comprehensively."
 					},
 					"card2": {
-						"title": "Expert Instructors",
-						"body": "They generate alignment and engagement. This leads to happier"
+						"title": "Customization",
+						"body": "Our services and courses are tailored to the specific needs of individuals and organizations. We don't believe in one-size-fits-all solutions and our training will reflect your needs and requirements."
 					},
 					"card3": {
-						"title": "Try & tested methods",
-						"body": "They generate alignment and engagement. This leads to happier"
+						"title": "Interactive Learning",
+						"body": "Our interactive e-learning modules make learning engaging and effective, ensuring that learners stay motivated and on track. We put the learning experience first."
+					},
+					"card4": {
+						"title": "Growth mindset",
+						"body": "We actively combat learned helplessness by instilling a growth mindset in our learners. We believe that with the right support and resources, anyone can improve their foundation skills."
+					},
+					"card5": {
+						"title": "Data-Driven Results",
+						"body": "We believe in measuring progress and impact. Our data-driven insights and teching methods ensure that our clients can see tangible improvements in foundation skills."
+					},
+					"card6": {
+						"title": "Advocacy for Change",
+						"body": "We're not just a business; we're advocates for change. We work to change the narrative around foundation skills, emphasizing their crucial role in lifelong learning and career success."
 					}
 				} 
 		  	},
