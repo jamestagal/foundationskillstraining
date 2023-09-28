@@ -1,0 +1,84 @@
+{
+	"components": [
+		{
+			"name": "site_breadcrumbs",
+			"fields": {
+				"title": "About Us",
+				"home": "Home",
+				"image1": {
+					"url": "media/shape/shape-1.png",
+					"altText": "Half circle"
+				},
+				"image2": {
+					"url": "media/shape/shape-3.png",
+					"altText": "Grid of green dots"
+				},
+				"image3": {
+					"url": "media/shape/shape-6.png",
+					"altText": "Grid of blue dots"
+				},
+				"image4": {
+					"url": "media/shape/shape-4.png",
+					"altText": "Grid of blue dots"
+				}
+			}
+		},
+		{
+			"name": "about",
+			"fields": {
+				"title1": "Building strong",
+				"title2": "Foundations",
+				"title3": "for lifelong success",
+				"description": "Foundation Skills Training is a leading online platform dedicated to enhancing individuals' foundation skills, empowering them for workforce participation, productivity, and social inclusion. We offer a unique blend of consulting services and non-accredited courses designed to address the importance of foundation skills and promote the idea that Prevention is better than a cure when it comes to addressing learned helplessness.",
+				"image": {
+					"src": "media/about/pexels-antoni-shkraba-5816300.jpg",
+					"altText": "A man and a women discussing business"
+				},
+				"feature1": {
+					"title": "Prevention is better than a cure",
+					"subtitle": "We firmly believe that investing in strong foundation skills early in one's education and career journey prevents future challenges and maximizes opportunities."
+				},
+				"feature2": {
+					"title": "Addressing learned helplessness",
+					"subtitle": "We empower individuals to break free from learned helplessness by providing the training and tools they need to take control of their education and career paths."
+				},
+				"link": {
+					"url": ".",
+					"text": "Discover More"
+				}
+			}
+		},
+		{
+			"name": "trainers",
+			"fields": {
+				"title1": "Meet Our",
+				"title2": "Trainers & Instructors",
+				"subtitle": "It is a long established fact that a reader will be distracted by the readable.",
+				"trainer1": {
+					"title": "Lead trainer",
+					"name": "Jodie Dehalen",
+					"src": "media/instructor/02.jpeg",
+					"alt": "Jodie Dehalen"
+				},
+				"trainer2": {
+					"title": "Lead trainer",
+					"name": "Benjamin Waller",
+					"src": "media/instructor/01.jpeg",
+					"alt": "Benjamin Waller"
+				},
+				"trainer3": {
+					"title": "Lead trainer",
+					"name": "Maria (Fran) Handoko",
+					"src": "media/instructor/04.jpeg",
+					"alt": "Maria (Fran) Handoko"
+				},
+				"trainer4": {
+					"title": "Marketer",
+					"name": "Jean K. Avendano",
+					"src": "media/instructor/03.jpeg",
+					"alt": "Jean K. Avendano"
+				}
+			}
+		}
+	]
+}

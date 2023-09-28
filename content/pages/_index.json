@@ -1,196 +1,163 @@
 {
 	"meta": {
-    "title": "Home",
-	  "desc": "Foundation Skills Training is a consultancy and training provider in Australia",
-	  "keywords": "Foundation Skills, Language, Literacy, Numeracy, Communication, FSK, Digital skills"
+		"title": "Home",
+		"desc": "Foundation Skills Training is a consultancy and training provider in Australia",
+		"keywords": "Foundation Skills, Language, Literacy, Numeracy, Communication, FSK, Digital skills"
 	},
-	  "components": [
-		  	{
-				"name": "hero",
-				"fields": {
-					"subtitle": "Prevention is better than a cure",
-					"title1": "Your Future Starts With",
-					"title2": "Foundation Skills",
-					"body": "We train students how to take responsibility and ownership of their learning",
-					"heroShape1": {
-						"src": "media/shape/shape-1.png",
-						"alt": "hero image"
-					},
-					"heroShape2": {
-						"src": "media/shape/shape-3.png",
-						"alt": "hero image"
-					},
-					"heroShape3": {
-						"src": "media/shape/shape-6.png",
-						"alt": "hero image"
-					},
-					"heroShape4": {
-						"src": "media/shape/shape-4.png",
-						"alt": "hero image"
-					},
-					"search": {
-						"button": "Search"
-					},
-                    "bgImage": {
-						"src": "media/hero/hero.jpeg",
-						"alt": "background hero image"
-					},
-					"link1": {
-						"title": "Get Started Now",
-						"url": "."
-					},
-					"link2": {
-						"title": "Get Started Now",
-						"url": "."
-					}
-				}
-			},
-			{
-				"name": "skills",
-				"fields": {
-					"title1": "We train the",
-					"title2": "Foundation Skills",
-					"card1": {
-						"title": "Language"
-					},
-					"card2": {
-						"title": "Literacy"
-					},
-					"card3": {
-						"title": "Numeracy"
-					},
-					"card4": {
-						"title": "Digital"
-					},
-					"card5": {
-						"title": "Learning"
-					},
-					"card6": {
-						"title": "Reading/writing"
-					},
-					"card7": {
-						"title": "Communication"
-					},
-					"card8": {
-						"title": "Employability"
-					}
-				}
-			},
-			{
-				"name": "feature",
-				"fields": {
-					"title1": "Why choose",
-					"title2": "Foundation Skills Training",
-					"subtitle": "It is a long established fact that a reader will be distracted by the readable.",
-					"card1": {
-						"title": "Holistic Approach",
-						"body": "We take a holistic approach to education and workforce development. We recognize that foundation skills are not just about literacy and numeracy but also include digital and employability skills. We address these comprehensively."
-					},
-					"card2": {
-						"title": "Customization",
-						"body": "Our services and courses are tailored to the specific needs of individuals and organizations. We don't believe in one-size-fits-all solutions and our training will reflect your needs and requirements."
-					},
-					"card3": {
-						"title": "Interactive Learning",
-						"body": "Our interactive e-learning modules make learning engaging and effective, ensuring that learners stay motivated and on track. We put the learning experience first."
-					},
-					"card4": {
-						"title": "Growth mindset",
-						"body": "We actively combat learned helplessness by instilling a growth mindset in our learners. We believe that with the right support and resources, anyone can improve their foundation skills."
-					},
-					"card5": {
-						"title": "Data-Driven Results",
-						"body": "We believe in measuring progress and impact. Our data-driven insights and teching methods ensure that our clients can see tangible improvements in foundation skills."
-					},
-					"card6": {
-						"title": "Advocacy for Change",
-						"body": "We're not just a business; we're advocates for change. We work to change the narrative around foundation skills, emphasizing their crucial role in lifelong learning and career success."
-					}
-				} 
-		  	},
-			  {
-				"name": "steps",
-				"fields": {
-					"title1": "The steps to succeed with",
-					"title2": "Foundation Skills Training",
-					"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-					"step1": {
-						"number": "01.",
-						"title": "Find Best Course With Filter",
-						"description": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration."
-					},
-					"step2": {
-						"number": "02.",
-						"title": "Enroll To Your Course",
-						"description": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration."
-					},
-					"step3": {
-						"number": "03.",
-						"title": "How much it costs to get started?",
-						"description": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration."
-					}
-				}
-			},
-			{
-				"name": "trainers",
-				"fields": {
-					"title1": "Meet Our",
-					"title2": "Trainers & Instructors",
-					"subtitle": "It is a long established fact that a reader will be distracted by the readable.",
-					"trainer1": {
-						"title": "Lead trainer",
-						"name": "Jodie Dehalen",
-						"src": "media/instructor/02.jpeg",
-						"alt": "Jodie Dehalen"
+	"components": [
+		{
+			"name": "hero",
+			"fields": {
+				"subtitle": "Prevention is better than a cure",
+				"title1": "Your Future Starts With",
+				"title2": "Foundation Skills",
+				"body": "We train students how to take responsibility and ownership of their learning",
+				"heroShape1": {
+					"src": "media/shape/shape-1.png",
+					"alt": "hero image"
 				},
-					"trainer2": {
-						"title": "Lead trainer",
-						"name": "Benjamin Waller",
-						"src": "media/instructor/01.jpeg",
-						"alt": "Benjamin Waller"
-					},
-					"trainer3": {
-						"title": "Lead trainer",
-						"name": "Maria (Fran) Handoko",
-						"src": "media/instructor/04.jpeg",
-						"alt": "Maria (Fran) Handoko"
-					},
-					"trainer4": {
-						"title": "Marketer",
-						"name": "Jean K. Avendano",
-						"src": "media/instructor/03.jpeg",
-						"alt": "Jean K. Avendano"
-					}
-				}
-			},
-			{
-				"name": "cta",
-				"fields": {
-					"title": "Start today & get trained in delivering Foundation Skills",
-					"description": "Get access to our top trainers and resources to help you succeed.",
-					"link": {
-						"title": "Get Started Now",
-                        "url": "."
-                    },
-                    "image": {
-					  "url": "media/cta/cta.jpeg",
-					  "alt": "Women studying"
-				    },
-					"shape": {
-						"url": "media/shape/shape-arrow.svg",
-						"alt": "a yellow arrow pointing to the cta"
-					}
-                }
-			},
-          	{
-				"name": "recent_articles",
-				"fields": {
-					"title": "Recent Articles",
-					"link": {
-						"title": "See all posts",
-						"url": "."
-					}
+				"heroShape2": {
+					"src": "media/shape/shape-3.png",
+					"alt": "hero image"
+				},
+				"heroShape3": {
+					"src": "media/shape/shape-6.png",
+					"alt": "hero image"
+				},
+				"heroShape4": {
+					"src": "media/shape/shape-4.png",
+					"alt": "hero image"
+				},
+				"search": {
+					"button": "Search"
+				},
+				"bgImage": {
+					"src": "media/hero/hero.jpeg",
+					"alt": "background hero image"
+				},
+				"link1": {
+					"title": "Get Started Now",
+					"url": "."
+				},
+				"link2": {
+					"title": "Get Started Now",
+					"url": "."
 				}
 			}
-	  	]
-  	}
+		},
+		{
+			"name": "skills",
+			"fields": {
+				"title1": "We train the",
+				"title2": "Foundation Skills",
+				"card1": {
+					"title": "Language"
+				},
+				"card2": {
+					"title": "Literacy"
+				},
+				"card3": {
+					"title": "Numeracy"
+				},
+				"card4": {
+					"title": "Digital"
+				},
+				"card5": {
+					"title": "Learning"
+				},
+				"card6": {
+					"title": "Reading/writing"
+				},
+				"card7": {
+					"title": "Communication"
+				},
+				"card8": {
+					"title": "Employability"
+				}
+			}
+		},
+		{
+			"name": "feature",
+			"fields": {
+				"title1": "Why choose",
+				"title2": "Foundation Skills Training",
+				"subtitle": "It is a long established fact that a reader will be distracted by the readable.",
+				"card1": {
+					"title": "Holistic Approach",
+					"body": "We take a holistic approach to education and workforce development. We recognize that foundation skills are not just about literacy and numeracy but also include digital and employability skills. We address these comprehensively."
+				},
+				"card2": {
+					"title": "Customization",
+					"body": "Our services and courses are tailored to the specific needs of individuals and organizations. We don't believe in one-size-fits-all solutions and our training will reflect your needs and requirements."
+				},
+				"card3": {
+					"title": "Interactive Learning",
+					"body": "Our interactive e-learning modules make learning engaging and effective, ensuring that learners stay motivated and on track. We put the learning experience first."
+				},
+				"card4": {
+					"title": "Growth mindset",
+					"body": "We actively combat learned helplessness by instilling a growth mindset in our learners. We believe that with the right support and resources, anyone can improve their foundation skills."
+				},
+				"card5": {
+					"title": "Data-Driven Results",
+					"body": "We believe in measuring progress and impact. Our data-driven insights and teching methods ensure that our clients can see tangible improvements in foundation skills."
+				},
+				"card6": {
+					"title": "Advocacy for Change",
+					"body": "We're not just a business; we're advocates for change. We work to change the narrative around foundation skills, emphasizing their crucial role in lifelong learning and career success."
+				}
+			}
+		},
+		{
+			"name": "steps",
+			"fields": {
+				"title1": "- Consulting Services -",
+				"description": "Foundation Skills Training's consulting services provide customised learning and assessments, professional development, and curriculum integration, tailored to address individual and organizational needs, ultimately enhancing foundation skills, promoting growth mindsets, and driving success in education and the workplace.",
+				"step1": {
+					"number": "01.",
+					"title": "Customised Foundation Skills Learning & Assessments:",
+					"description": "We provide comprehensive assessments to identify an individual's specific strengths and weaknesses in areas such as English language, literacy, numeracy, and digital skills (LLND). Our assessments are designed to help individuals, educational institutions, and businesses gain insights into areas that need improvement."
+				},
+				"step2": {
+					"number": "02.",
+					"title": "Strategic Professional Development:",
+					"description": "We collaborate with organizations to create tailored strategies for enhancing foundation skills among their employees. Our team of experts helps businesses identify areas where improved foundation skills can boost productivity and employee engagement."
+				},
+				"step3": {
+					"number": "03.",
+					"title": "Curriculum Development and Integration:",
+					"description": "We assist educational institutions in integrating foundation skills into their curricula, ensuring students are equipped with essential skills for career success."
+				}
+			}
+		},
+		{
+			"name": "cta",
+			"fields": {
+				"title": "Start today & get trained in delivering Foundation Skills",
+				"description": "Get access to our top trainers and resources to help you succeed.",
+				"link": {
+					"title": "Get Started Now",
+					"url": "."
+				},
+				"image": {
+					"url": "media/cta/cta.jpeg",
+					"alt": "Women studying"
+				},
+				"shape": {
+					"url": "media/shape/shape-arrow.svg",
+					"alt": "a yellow arrow pointing to the cta"
+				}
+			}
+		},
+		{
+			"name": "recent_articles",
+			"fields": {
+				"title": "Recent Articles",
+				"link": {
+					"title": "See all posts",
+					"url": "."
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+    "components": [
+        {
+            "name": "site_breadcrumbs",
+            "fields": {
+                "title": "Contact Us",
+                "home": "Home",
+                "image1": {
+                    "url": "media/shape/shape-1.png",
+                    "altText": "Half circle"
+                },
+                "image2": {
+                    "url": "media/shape/shape-3.png",
+                    "altText": "Grid of green dots"
+                },
+                "image3": {
+                    "url": "media/shape/shape-6.png",
+                    "altText": "Grid of blue dots"
+                },
+                "image4": {
+                    "url": "media/shape/shape-4.png",
+                    "altText": "Grid of blue dots"
+                }
+            }
+        },
+        {
+            "name": "contact",
+            "fields": {
+                "title1": "Building strong",
+                "title2": "Foundations",
+                "title3": "for lifelong success",
+                "description": "Foundation Skills Training is a leading online platform dedicated to enhancing individuals' foundation skills, empowering them for workforce participation, productivity, and social inclusion. We offer a unique blend of consulting services and non-accredited courses designed to address the importance of foundation skills and promote the idea that Prevention is better than a cure when it comes to addressing learned helplessness.",
+                "image": {
+                    "src": "media/about/pexels-antoni-shkraba-5816300.jpg",
+                    "altText": "A man and a women discussing business"
+                },
+                "feature1": {
+                    "title": "Prevention is better than a cure",
+                    "subtitle": "We firmly believe that investing in strong foundation skills early in one's education and career journey prevents future challenges and maximizes opportunities."
+                },
+                "feature2": {
+                    "title": "Addressing learned helplessness",
+                    "subtitle": "We empower individuals to break free from learned helplessness by providing the training and tools they need to take control of their education and career paths."
+                },
+                "link": {
+                    "url": ".",
+                    "text": "Discover More"
+                }
+            }
+        }
+    ]
+}

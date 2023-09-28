@@ -2,8 +2,13 @@
   <div class="main-navigation">
     <nav class="navbar navbar-expand-lg">
       <div class="container">
-        <a class="navbar-brand" href="index.html">
-          <img src="logo.png" width="375" height="74" alt="Foundation Skills Training logo" />
+        <a class="navbar-brand" href=".">
+          <img
+            src="logo.png"
+            width="375"
+            height="74"
+            alt="Foundation Skills Training logo"
+          />
         </a>
         <div class="mobile-menu-right">
           <a href="." class="mobile-search-btn search-box-outer"
@@ -64,7 +69,7 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
+              <a class="nav-link" href="aboutus">About Us</a>
             </li>
             <li class="nav-item dropdown">
               <a
@@ -234,7 +239,7 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
+              <a class="nav-link" href="contactus">Contact</a>
             </li>
           </ul>
           <div class="header-nav-right">

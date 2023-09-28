@@ -1,6 +1,7 @@
 <script>
-  export let title1, title2, description, step1, step2, step3;
+  export let title1, description, step1, step2, step3;
 </script>
+
 <!-- step area -->
 <div class="step-area">
   <div class="container">
@@ -9,7 +10,7 @@
         <div class="step-content">
           <div class="site-heading">
             <h2 class="site-title mb-10">
-              {title1}<br><span>{title2}</span>
+              <br /><span>{title1}</span>
             </h2>
             <p>
               {description}
