@@ -1,0 +1,49 @@
+{
+    "header": {
+        "title": "Blog Post 1",
+        "image1": {
+            "url": "media/shape/shape-1.png",
+            "altText": "Half circle"
+        },
+        "image2": {
+            "url": "media/shape/shape-3.png",
+            "altText": "Grid of green dots"
+        },
+        "image3": {
+            "url": "media/shape/shape-6.png",
+            "altText": "Grid of blue dots"
+        },
+        "image4": {
+            "url": "media/shape/shape-4.png",
+            "altText": "Grid of blue dots"
+        }
+    },
+    "image": {
+        "source": "media/post-1.jpeg",
+        "alt": "Students in a classroom disucssing the lesson"
+    },
+    "author": {
+        "name": "John Doe",
+        "link": "."
+    },
+    "publish": {
+        "date": "25 Sept, 2023"
+    },
+    "category": {
+        "name": "Foundation Skills"
+    },
+    "tags": [
+        "Reading strategies",
+        "Learning"
+    ],
+    "title": "Post 1",
+    "description": [
+        {
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat."
+        }
+    ],
+    "quote": {
+        "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+        "author": "Mark Crawford"
+    }
+}

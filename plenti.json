@@ -1,7 +1,8 @@
 {
 	"build": "public",
 	"routes": {
-		"pages": ":filename"
+		"pages": ":filename",
+		"posts": "blog/:filename"
 	},
 	"baseurl": "/fountationskillstraining/",
 	"local": {
