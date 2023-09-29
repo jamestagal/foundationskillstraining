@@ -29,7 +29,9 @@
               <i class="fad fa-laptop-code" />
             </div>
             <div class="category-item-content">
-              <h4>{card1.title}</h4>
+              <h4 style="text-decoration-line: none">
+                {card1.title}
+              </h4>
             </div>
           </div>
         </a>
@@ -50,7 +52,7 @@
         <a href="." class="d-block">
           <div class="category-item category-color-3">
             <div class="category-item-icon">
-              <i class="fad fa-leaf" />
+              <i class="fa fa-leaf" />
             </div>
             <div class="category-item-content">
               <h4>{card3.title}</h4>
@@ -62,7 +64,7 @@
         <a href="." class="d-block">
           <div class="category-item category-color-4">
             <div class="category-item-icon">
-              <i class="fad fa-medkit" />
+              <i class="fa fa-medkit" />
             </div>
             <div class="category-item-content">
               <h4>{card4.title}</h4>
@@ -74,7 +76,7 @@
         <a href="." class="d-block">
           <div class="category-item category-color-5">
             <div class="category-item-icon">
-              <i class="fad fa-fill-drip" />
+              <i class="fa fa-fill-drip" />
             </div>
             <div class="category-item-content">
               <h4>{card5.title}</h4>
@@ -86,7 +88,7 @@
         <a href="." class="d-block">
           <div class="category-item category-color-6">
             <div class="category-item-icon">
-              <i class="fad fa-photo-video" />
+              <i class="fa fa-photo-video" />
             </div>
             <div class="category-item-content">
               <h4>{card6.title}</h4>
@@ -98,7 +100,7 @@
         <a href="." class="d-block">
           <div class="category-item category-color-7">
             <div class="category-item-icon">
-              <i class="fad fa-credit-card" />
+              <i class="fa fa-credit-card" />
             </div>
             <div class="category-item-content">
               <h4>{card7.title}</h4>
@@ -110,7 +112,7 @@
         <a href="." class="d-block">
           <div class="category-item category-color-8">
             <div class="category-item-icon">
-              <i class="fad fa-school" />
+              <i class="fa fa-school" />
             </div>
             <div class="category-item-content">
               <h4>{card8.title}</h4>
@@ -121,7 +123,7 @@
     </div>
     <div class="text-center">
       <a href="." class="theme-btn mt-5"
-        ><span class="fad fa-sync-alt" /> Explore All Category</a
+        ><span class="fa fa-sync-alt" /> Explore All Category</a
       >
     </div>
   </div>
