@@ -1,6 +1,7 @@
 <script>
   export let title1, title2, subtitle, trainer1, trainer2, trainer3, trainer4;
 </script>
+
 <!-- instructor-area -->
 <div class="instructor-area py-120">
   <div class="container">
@@ -9,7 +10,7 @@
         <div class="site-heading text-center">
           <h2 class="site-title">{title1} <span>{title2}</span></h2>
           <p>
-           {subtitle}
+            {subtitle}
           </p>
         </div>
       </div>
@@ -18,7 +19,7 @@
       <div class="col-md-6 col-lg-4 col-xl-3">
         <div class="instructor-item">
           <div class="instructor-img">
-            <a href="."><img src="{trainer1.src}" alt="{trainer2.alt}" /></a>
+            <a href="."><img src={trainer1.src} alt={trainer2.alt} /></a>
           </div>
           <div class="instructor-content">
             <span class="instructor-tag">{trainer1.title}</span>
@@ -38,7 +39,7 @@
       <div class="col-md-6 col-lg-4 col-xl-3">
         <div class="instructor-item">
           <div class="instructor-img">
-            <a href="."><img src="{trainer2.src}" alt="{trainer2.alt}" /></a>
+            <a href="."><img src={trainer2.src} alt={trainer2.alt} /></a>
           </div>
           <div class="instructor-content">
             <span class="instructor-tag">{trainer2.title}</span>
@@ -58,7 +59,7 @@
       <div class="col-md-6 col-lg-4 col-xl-3">
         <div class="instructor-item">
           <div class="instructor-img">
-            <a href="."><img src="{trainer3.src}" alt="{trainer3.alt}" /></a>
+            <a href="."><img src={trainer3.src} alt={trainer3.alt} /></a>
           </div>
           <div class="instructor-content">
             <span class="instructor-tag">{trainer3.title}</span>
@@ -78,7 +79,7 @@
       <div class="col-md-6 col-lg-4 col-xl-3">
         <div class="instructor-item">
           <div class="instructor-img">
-            <a href="."><img src="{trainer4.src}" alt="{trainer4.alt}" /></a>
+            <a href="."><img src={trainer4.src} alt={trainer4.alt} /></a>
           </div>
           <div class="instructor-content">
             <span class="instructor-tag">{trainer4.title}</span>
@@ -98,4 +99,10 @@
     </div>
   </div>
 </div>
+
 <!-- instructor-area end -->
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
