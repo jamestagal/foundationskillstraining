@@ -1,4 +1,34 @@
 <script>
+  import { onMount } from "svelte";
+  import OwlCarousel from "../scripts/owl.carousel.min.js";
+  let owlCarousel;
+  onMount(() => {
+    owlCarousel = new OwlCarousel({
+      target: document.querySelector(".testimonial-slider"),
+      props: {
+        loop: true,
+        margin: 30,
+        nav: false,
+        navText: [
+          "<i class='icofont-long-arrow-left'></i>",
+          "<i class='icofont-long-arrow-right'></i>",
+        ],
+        dots: true,
+        autoplay: true,
+        responsive: {
+          0: {
+            items: 1,
+          },
+          600: {
+            items: 2,
+          },
+          1000: {
+            items: 2,
+          },
+        },
+      },
+    });
+  });
   export let title1, title2, subtitle, student1, student2;
 </script>
 
