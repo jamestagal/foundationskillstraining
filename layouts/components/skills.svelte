@@ -123,9 +123,16 @@
     </div>
     <div class="text-center">
       <a href="." class="theme-btn mt-5"
-        ><span class="fa fa-sync-alt" /> Explore All Category</a
+        ><span class="fa fa-sync-alt" /> Explore the Foundation Skills</a
       >
     </div>
   </div>
 </div>
+
 <!-- category area end -->
+
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
