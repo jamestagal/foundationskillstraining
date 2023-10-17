@@ -2914,16 +2914,16 @@ step css
 }
 
 .step-content {
-  padding: 70px 30px 70px 0;
+  padding: 50px 30px 50px 0;
 }
 
 .step-img {
-  background-image: url(./media/step/01.jpeg);
+  background-image: url("media/step/01.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
-  margin-right: -200px;
+  margin-right: -100px;
 }
 
 .step-item {
