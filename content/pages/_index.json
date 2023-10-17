@@ -131,26 +131,7 @@
 			}
 		},
 		{
-			"name": "cta",
-			"fields": {
-				"title": "Start today & get trained in delivering Foundation Skills",
-				"description": "Get access to our top trainers and resources to help you succeed.",
-				"link": {
-					"title": "Get Started Now",
-					"url": "."
-				},
-				"image": {
-					"url": "media/cta/cta.jpeg",
-					"alt": "Women studying"
-				},
-				"shape": {
-					"url": "media/shape/shape-arrow.svg",
-					"alt": "a yellow arrow pointing to the cta"
-				}
-			}
-		},
-		{
-			"name": "testimonial",
+			"name": "testimonial2",
 			"fields": {
 				"title1": "What our",
 				"title2": "student say",
@@ -172,6 +153,25 @@
 						"src": "media/testimonial/02.png",
 						"altText": "make student"
 					}
+				}
+			}
+		},
+		{
+			"name": "cta",
+			"fields": {
+				"title": "Start today & get trained in delivering Foundation Skills",
+				"description": "Get access to our top trainers and resources to help you succeed.",
+				"link": {
+					"title": "Get Started Now",
+					"url": "."
+				},
+				"image": {
+					"url": "media/cta/cta.jpeg",
+					"alt": "Women studying"
+				},
+				"shape": {
+					"url": "media/shape/shape-arrow.svg",
+					"alt": "a yellow arrow pointing to the cta"
 				}
 			}
 		}
