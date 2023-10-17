@@ -86,4 +86,10 @@
     </div>
   </div>
 </div>
+
 <!-- team-area end -->
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
