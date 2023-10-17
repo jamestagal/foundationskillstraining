@@ -150,12 +150,28 @@
 			}
 		},
 		{
-			"name": "recent_articles",
+			"name": "testimonial",
 			"fields": {
-				"title": "Recent Articles",
-				"link": {
-					"title": "See all posts",
-					"url": "."
+				"title1": "What our",
+				"title2": "student say",
+				"subtitle": "We've helped hundreds of student and here's what some have to say",
+				"student1": {
+					"name": "Sylvia H Green",
+					"title": "student",
+					"quote": "We take a holistic approach to education and professional development. We promote foundation skills are not just about literacy and numeracy, digital and employability skills but also that they are essential to being successful functioning individual.",
+					"image": {
+						"src": "media/testimonial/01.png",
+						"altText": "female student"
+					}
+				},
+				"student2": {
+					"name": "Gorden D Novak",
+					"title": "student",
+					"quote": "We take a holistic approach to education and professional development. We promote foundation skills are not just about literacy and numeracy, digital and employability skills but also that they are essential to being successful functioning individual.",
+					"image": {
+						"src": "media/testimonial/02.png",
+						"altText": "make student"
+					}
 				}
 			}
 		}

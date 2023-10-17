@@ -1,5 +1,5 @@
 <script>
-  export let title1, title2, title3, subtitle, card1, card2;
+  export let title1, title2, subtitle, student1, student2;
 </script>
 
 <!-- testimonial-area -->
@@ -8,7 +8,7 @@
     <div class="row">
       <div class="col-lg-6 mx-auto">
         <div class="site-heading text-center">
-          <h2 class="site-title">{title1} <span>{title2}</span> {title3}</h2>
+          <h2 class="site-title">{title1} <span>{title2}</span></h2>
           <p>
             {subtitle}
           </p>
@@ -22,16 +22,16 @@
             ><i class="fal fa-quote-right" /></span
           >
           <p>
-            {card1.quote}
+            {student1.quote}
           </p>
         </div>
         <div class="testimonial-content">
           <div class="testimonial-author-img">
-            <img src={card1.src} alt={card1.altText} />
+            <img src={student1.image.src} alt={student1.image.altText} />
           </div>
           <div class="testimonial-author-info">
-            <h4>{card1.name}</h4>
-            <p>{card1.title}</p>
+            <h4>{student1.name}</h4>
+            <p>{student1.title}</p>
             <div class="testimonial-rate">
               <i class="fas fa-star" />
               <i class="fas fa-star" />
@@ -48,16 +48,16 @@
             ><i class="fal fa-quote-right" /></span
           >
           <p>
-            {card2.quote}
+            {student2.quote}
           </p>
         </div>
         <div class="testimonial-content">
           <div class="testimonial-author-img">
-            <img src={card2.src} alt={card2.altText} />
+            <img src={student2.src} alt={student2.altText} />
           </div>
           <div class="testimonial-author-info">
-            <h4>{card2.name}</h4>
-            <p>{card2.title}</p>
+            <h4>{student2.name}</h4>
+            <p>{student2.title}</p>
             <div class="testimonial-rate">
               <i class="fas fa-star" />
               <i class="fas fa-star" />
