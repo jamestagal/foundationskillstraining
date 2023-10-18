@@ -1,5 +1,2 @@
-deploy/
-public/
-dist/
+public
 node_modules
-.env
