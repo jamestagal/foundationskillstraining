@@ -131,8 +131,8 @@
 
 <!-- category area end -->
 
-<style>
+<!-- <style>
   a {
     text-decoration: none;
   }
-</style>
+</style> -->
