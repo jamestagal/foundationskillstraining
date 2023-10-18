@@ -30,9 +30,7 @@
             <div class="blog-item-meta">
               <ul>
                 <li>
-                  <a href="."
-                    ><i class="far fa-user-circle" /> By Alicia Davis</a
-                  >
+                  <a href="."><i class="far fa-user-circle" /> By Ben Davis</a>
                 </li>
                 <li>
                   <a href="."><i class="far fa-calendar-alt" /> May 11, 2023</a>
