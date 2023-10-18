@@ -2,3 +2,4 @@ deploy/
 public/
 dist/
 node_modules
+.env
