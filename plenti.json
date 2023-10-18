@@ -1,5 +1,5 @@
 {
-	"build": "deploy/public",
+	"build": "public",
 	"routes": {
 		"pages": ":filename",
 		"posts": "blog/:filename"
