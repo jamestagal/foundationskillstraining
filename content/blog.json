@@ -1,0 +1,20 @@
+{
+    "title": "Our Blog",
+    "home": "Home",
+    "image1": {
+        "url": "media/shape/shape-1.png",
+        "altText": "Half circle"
+    },
+    "image2": {
+        "url": "media/shape/shape-3.png",
+        "altText": "Grid of green dots"
+    },
+    "image3": {
+        "url": "media/shape/shape-6.png",
+        "altText": "Grid of blue dots"
+    },
+    "image4": {
+        "url": "media/shape/shape-4.png",
+        "altText": "Grid of blue dots"
+    }
+}
