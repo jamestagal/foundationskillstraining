@@ -1,6 +1,6 @@
 <header class="header">
   <div class="main-navigation">
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg fixed-top">
       <div class="container">
         <a class="navbar-brand" href=".">
           <img
@@ -51,3 +51,22 @@
     </nav>
   </div>
 </header>
+
+<style>
+  .navbar.fixed-top {
+    background: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.17);
+    animation: slide-down 0.7s;
+  }
+  @keyframes slide-down {
+    0% {
+      transform: translateY(-100%);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  .navbar.fixed-top .nav-item .nav-link::before {
+    color: #00235a;
+  }
+</style>
