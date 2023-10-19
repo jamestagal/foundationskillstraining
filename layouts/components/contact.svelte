@@ -7,8 +7,9 @@
             <div class="contact-form-header">
               <h2>Get In Touch</h2>
               <p>
-                It is a long established fact that a reader will be distracted
-                by the readable content of a page when looking at its layout.
+                Got a questions or wish to disucss your foundation skills
+                strategy? Please get in touch and we'd be happy to get back to
+                you as soon as possible.
               </p>
             </div>
             <form
@@ -84,7 +85,7 @@
               </div>
               <div class="contact-info-content">
                 <h5>Call Us</h5>
-                <p>+2 123 4565 789</p>
+                <p>+61 123 4565 789</p>
               </div>
             </div>
             <div class="contact-info">
@@ -93,7 +94,7 @@
               </div>
               <div class="contact-info-content">
                 <h5>Email Us</h5>
-                <p>info@example.com</p>
+                <p>info@foundationskillstraining.com</p>
               </div>
             </div>
             <div class="contact-info">
@@ -102,7 +103,7 @@
               </div>
               <div class="contact-info-content">
                 <h5>Office Open</h5>
-                <p>Mon - Fri (08AM - 5PMß)</p>
+                <p>Mon - Fri (08AM - 5PM)</p>
               </div>
             </div>
           </div>
