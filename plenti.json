@@ -4,7 +4,7 @@
 		"pages": ":filename",
 		"posts": "blog/:filename"
 	},
-	"baseurl": "/",
+	"baseurl": "/foundationskillstraining/",
 	"local": {
 		"port": 3000
 	}
