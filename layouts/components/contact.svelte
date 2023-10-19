@@ -75,7 +75,7 @@
               </div>
               <div class="contact-info-content">
                 <h5>Office Address</h5>
-                <p>25/B Milford, New York, USA</p>
+                <p>Canberra, Australia</p>
               </div>
             </div>
             <div class="contact-info">
@@ -102,7 +102,7 @@
               </div>
               <div class="contact-info-content">
                 <h5>Office Open</h5>
-                <p>Sun - Fri (08AM - 10PM)</p>
+                <p>Mon - Fri (08AM - 5PMß)</p>
               </div>
             </div>
           </div>
